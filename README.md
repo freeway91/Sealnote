@@ -100,3 +100,7 @@ Every line of code is in `sealnote.html`. Your trust should be based on code you
 ## License
 
 MIT
+
+
+AI, thank you, ّkiss on the cheekّ
+
